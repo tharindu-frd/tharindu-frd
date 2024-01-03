@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🚀 Welcome to my GitHub! I'm an AI enthusiast. My primary focus is on building and deploying end-to-end pipelines that leverage cutting-edge technologies.
+🚀 Welcome to my GitHub! I'm an AI enthusiast. My primary focus is on building and deploying robust and scalable end-to-end ML pipelines  that leverage cutting-edge technologies.I enjoy working on projects that span various domains, from developing machine learning models to deploying scalable solutions using Kubernetes and Docker.Committed to staying updated with the latest advancements in DL and AI. Learning is a lifelong journey, and I'm always exploring new ideas. 
 
 🔧 **Tech Stack:**
 - **Languages:** Python 
@@ -10,19 +10,5 @@
 - **Infrastructure/DevOps:** Kubernetes, Docker, Jenkins
 - **Monitoring & Visualization:** Prometheus, Grafana
 
-🌐 **Interests:**
-- Machine Learning / Deep Learning /  Natural Language Processing / Computer Vision / Big Data 
-
-
-🛠️ **Projects:**
-- I enjoy working on projects that span various domains, from developing machine learning models to deploying scalable solutions using Kubernetes and Docker.
-
-📚 **Continuous Learning:**
-- Committed to staying updated with the latest advancements in ML and AI. Learning is a lifelong journey, and I'm always exploring new ideas.
-
-🌟 **Goals:**
-- Advancing my skills in ML, DL, NLP, and computer vision.
-- Building robust and scalable end-to-end ML pipelines.
-- Contributing to the open-source community.
 
 
