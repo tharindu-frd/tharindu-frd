@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**tharindu-frd/tharindu-frd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Welcome to my GitHub! I'm passionate about Machine Learning, Deep Learning, NLP, and Computer Vision. My primary focus is on building and deploying end-to-end pipelines that leverage cutting-edge technologies.
 
-Here are some ideas to get you started:
+🔧 **Tech Stack:**
+- **Languages:** Python 
+- **Frameworks/Libraries:** Scikit-learn, PyTorch, TensorFlow, MLflow , Sagemaker
+- **Infrastructure/DevOps:** Kubernetes, Docker, Jenkins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Interests:**
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Computer Vision
+
+🛠️ **Projects:**
+- I enjoy working on projects that span various domains, from developing machine learning models to deploying scalable solutions using Kubernetes and Docker.
+
+📚 **Continuous Learning:**
+- Committed to staying updated with the latest advancements in ML and AI. Learning is a lifelong journey, and I'm always exploring new ideas.
+
+🌟 **Goals:**
+- Advancing my skills in ML, DL, NLP, and computer vision.
+- Building robust and scalable end-to-end ML pipelines.
+- Contributing to the open-source community.
+
+
