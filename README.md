@@ -1,17 +1,18 @@
 ### Hi there 👋
 
-🚀 Welcome to my GitHub! I'm passionate about Machine Learning, Deep Learning, NLP, and Computer Vision. My primary focus is on building and deploying end-to-end pipelines that leverage cutting-edge technologies.
+🚀 Welcome to my GitHub! I'm an AI enthusiast. My primary focus is on building and deploying end-to-end pipelines that leverage cutting-edge technologies.
 
 🔧 **Tech Stack:**
 - **Languages:** Python 
-- **Frameworks/Libraries:** Scikit-learn, PyTorch, TensorFlow, MLflow , Sagemaker
+- **Frameworks/Libraries:** Scikit-learn, PyTorch, TensorFlow, MLflow , Sagemaker 
 - **Infrastructure/DevOps:** Kubernetes, Docker, Jenkins
+- **Big Data Tools:** Apache Spark, Hive, Hadoop
+- **Infrastructure/DevOps:** Kubernetes, Docker, Jenkins
+- **Monitoring & Visualization:** Prometheus, Grafana
 
 🌐 **Interests:**
-- Machine Learning
-- Deep Learning
-- Natural Language Processing (NLP)
-- Computer Vision
+- Machine Learning / Deep Learning /  Natural Language Processing / Computer Vision / Big Data 
+
 
 🛠️ **Projects:**
 - I enjoy working on projects that span various domains, from developing machine learning models to deploying scalable solutions using Kubernetes and Docker.
