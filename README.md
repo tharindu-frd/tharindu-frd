@@ -7,7 +7,6 @@
 - **Frameworks/Libraries:** Scikit-learn, PyTorch, TensorFlow, MLflow , Sagemaker 
 - **Infrastructure/DevOps:** Kubernetes, Docker, Jenkins
 - **Big Data Tools:** Apache Spark, Hive, Hadoop
-- **Infrastructure/DevOps:** Kubernetes, Docker, Jenkins
 - **Monitoring & Visualization:** Prometheus, Grafana
 
 
