@@ -5,7 +5,7 @@
 🔧 **Tech Stack:**
 - **Languages:** Python 
 - **Frameworks/Libraries:** Scikit-learn, PyTorch, TensorFlow, MLflow , Sagemaker 
-- **Infrastructure/DevOps:** Kubernetes, Docker, Jenkins
+- **Infrastructure/DevOps:** Kubernetes, Docker
 - **Big Data Tools:** Apache Spark, Hive, Hadoop
 - **Monitoring & Visualization:** Prometheus, Grafana
 
